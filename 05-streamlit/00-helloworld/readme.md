@@ -1,12 +1,12 @@
 # Streamlit Hello World
 
-## Install streamlit package
+### Install streamlit package
 
 
 ```shell
 pip install streamlit  
 ```
-## Create hello.py and run it:
+### Create hello.py and run it:
 
 ```shell
 streamlit run hello_world.py 
