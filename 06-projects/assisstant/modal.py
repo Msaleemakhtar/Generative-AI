@@ -85,3 +85,6 @@ class OpenAiBot:
     
     def addMessage(self, message:MessageItem)->None:
         self.messages.append(message)
+
+
+
